@@ -38,7 +38,7 @@ The Parking Management System is designed to streamline the process of parking s
 - Axios for API communication
 
 ### Database
-- MongoDB
+- PostgreSQL
 
 ## Setup and Installation
 
